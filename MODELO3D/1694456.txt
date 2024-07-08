@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-13022024-061815";"";
+"REFERENCE";"CRCW060368R1FKEA";"";
+"rs_stock_number";"1694456";"";
+"TraceParts.PartTitle";"CRCW0603 Resistor T/R 0.10W,1%,68R1";"";
+"url";"https://uk.rs-online.com/web/p/surface-mount-resistors/1694456//?cm_mmc=aff-_-uk-_-traceparts-_-1694456";"";
+"SUPPLIER_NAME";"RS Components";"";
+"SUPPLIER";"Vishay";"";
+"DESIGN";"CRCW0603 Resistor T/R 0.10W,1%,68R1";"";
+"TraceParts.InstanceId";"90-13022024-0618152N3XX9WWY2MK673V115V3T3RA";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.1";"";
